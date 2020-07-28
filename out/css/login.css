@@ -1,0 +1,69 @@
+/*登陆页面的样式*/
+.Middle {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: #000000;
+}
+.MainBoard{
+    width: 300px;
+    height: 200px;
+    background: #ffffff;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius:10px;
+    margin:auto;
+    text-align: center;
+}
+#BackGround1{
+    box-shadow:330px -230px 0px cadetblue;
+}
+#BackGround2{
+    box-shadow:-330px 0px 0px cadetblue;
+}
+#BackGround3{
+    box-shadow:-330px -230px 0px cadetblue;
+}
+#BackGround4{
+    box-shadow:0px -230px 0px cadetblue;
+}
+#BackGround5{
+    box-shadow:330px 0px 0px cadetblue;
+}
+#BackGround6{
+    box-shadow:330px 230px 0px cadetblue;
+}
+#BackGround7{
+    box-shadow:0px 230px 0px #5f9ea0;
+}
+#BackGround8{
+    box-shadow:-330px 230px 0px #5f9ea0;
+}
+.header{
+    margin-top: -30px;
+    font-size: 20px;
+    color: white;
+}
+.inputBox{
+    text-align: left;
+    margin-left: 40px;
+    margin-top:30px;
+    font-size: 15px;
+    line-height: 10px;
+}
+.input{
+    border-radius: 3px;
+    border: solid rgb(95, 158, 160) 1px;
+}
+p{
+    font-size: 20px;
+}
+.warning{
+    color: red;
+
+}

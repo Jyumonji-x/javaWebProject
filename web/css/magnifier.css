@@ -1,0 +1,11 @@
+#magnifier{
+    left: 50%;
+    top: 200px;
+    z-index:9999;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    overflow: hidden;
+    background-color: dodgerblue;
+    display: none;
+}
